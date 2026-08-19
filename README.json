@@ -1,23 +1,7 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Awesome Repositories"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Other Useful Repositories"
-    },
-    {
-      "description": "Please have a look at contributing.md",
-      "items": [],
-      "title": "Contributions"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T07:26:28.526Z",
+    "last_updated": "2026-08-19T07:27:42.238Z",
     "original_repository": "Hack-with-Github/Awesome-Hacking",
     "original_repository_sha": "b2bb13aa69b4f568a1bab0cbb17b7a00a350dc36",
     "enhanced_repository": "enhansome/enhansome-Awesome-Hacking",
